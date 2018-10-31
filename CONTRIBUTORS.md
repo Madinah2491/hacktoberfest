@@ -1,5 +1,5 @@
 ### Name: Madinah Nelson (https://github.com/Madinah2491)
-- Place: Atlanta, Georgia, United States
+- Place: Atlanta, Georgia, United States of America
 - Bio: Full Stack Software Developer
 - GitHub: [Madinah2491](https://github.com/Madinah2491)
 
